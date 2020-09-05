@@ -25,7 +25,7 @@ namespace EsaERP
             {
                 app.UseDeveloperExceptionPage();
             }
-
+             
             app.UseRouting();
 
             app.UseEndpoints(endpoints =>
